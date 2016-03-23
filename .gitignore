@@ -1,2 +1,3 @@
-example_opendb
 *.o
+*.db
+example_opendb
